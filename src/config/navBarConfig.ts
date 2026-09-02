@@ -50,13 +50,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		],
 	});
 
-	// 关于
-	links.push({
-		name: "关于",
-		url: LinkPresets.About,
-		icon: "material-symbols:info",
-
-
 	// 自定义导航栏链接
 	links.push({
 		name: "链接",
@@ -90,6 +83,15 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 		],
 	});
+	
+	// 关于
+	links.push({
+		name: "关于",
+		url: LinkPresets.About,
+		icon: "material-symbols:info",
+
+
+
 
 	// 文档链接
 	// links.push({
