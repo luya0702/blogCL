@@ -37,7 +37,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 		// 关于
-	links.push(LinkPresets.about);
+	links.push({
+		name: "关于",
+		url: "https://loagal.top/about/",
+	});
 	
 	//社交及其子菜单
 	//links.push({
