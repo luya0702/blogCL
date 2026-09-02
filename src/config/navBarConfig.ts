@@ -84,8 +84,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		],
 	});
 	
-	// 关于
-	links.push(LinkPresets.Home);
 
 	// 文档链接
 	// links.push({
