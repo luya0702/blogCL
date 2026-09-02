@@ -38,7 +38,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 		// 关于
 	links.push({
-		name: "关于",
+		name: "关于本站",
 		url: "https://loagal.top/about/",
 	});
 	
