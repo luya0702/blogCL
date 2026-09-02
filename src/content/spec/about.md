@@ -1,27 +1,16 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+👋 你好，欢迎来到这个小站，希望你能够在本站找到想要的资源。
 
-## 🛠️ 关于本站
+# 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+这里是一个分享 Galgame 的小站，分享的内容完全免费，不会出现任何收费的情况。  
+本站TG频道：[t.me/sharegal](https://t.me/sharegal) ，订阅频道获取更多内容。  
+若有其他问题，请发送邮箱至loa70@loagal.top或前往[Telegram](https://t.me/loa70)给我发信息。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+# 重要声明：
 
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
----
-
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+本站分享的内容均来自于互联网，主要用于个人学习、研究与交流。  
+游戏本体、音乐、图片、文字等相关内容的版权归原作者、制作公司及相关权利人所有。  
+如果你是相关版权持有者，认为本站内容侵犯了你的合法权益，请及时与我联系，我会及时处理相关内容。  
+**如果有能力还请多支持正版。**
