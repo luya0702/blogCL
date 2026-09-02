@@ -85,13 +85,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 	
 	// 关于
-	links.push({
-		name: "关于",
-		url: LinkPresets.About,
-		icon: "material-symbols:info",
-
-
-
+	links.push(LinkPresets.Home);
 
 	// 文档链接
 	// links.push({
