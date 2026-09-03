@@ -2,7 +2,7 @@
 ---
 title: 新人必读
 published: 2026-05-15
-description: 教程总纲
+description: 关于游玩中会遇到的各类问题
 tags: [教程]
 category: 教程
 draft: false
