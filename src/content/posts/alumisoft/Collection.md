@@ -1,7 +1,7 @@
 ---
 
 title: あるみそふと
-published: 2026-05-18
+published: 2026-09-04
 description: あるみそふと / Alumi Soft  
 tags: [合集, Alumi Soft]
 category: 会社合集

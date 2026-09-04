@@ -1,7 +1,7 @@
 ---
 
 title: わんこの嫁入り ～ようこそ！いぬのしっぽへ～
-published: 2026-05-18
+published: 2026-09-04
 description: 汪酱出嫁～欢迎光临!狗尾巴～/小狗新娘～欢迎光临尾巴摇摇～  
 tags: [兽耳娘, 姐妹, 恋爱喜剧, 汉化, PC]
 category: Galgame
@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-<img src="./images/Inuyome.avif">
+![alumisoft](./images/Inuyome.avif)
 
 ### 基本信息
 
@@ -54,7 +54,7 @@ draft: false
 ---
 
 ### 注意：  
--故事简介为Ai翻译，可能与你游玩的版本有些许不同。
+-故事简介为Ai翻译，可能与你游玩的版本有些许不同。  
 -注意事项中的内容仅供参考，不能保证您的电脑是否通用。  
 -若您的电脑无法运行，请看以下网站[新人必读](https://loagal.top/posts/jc/jcz/)   
 -有能力请支持正版！
