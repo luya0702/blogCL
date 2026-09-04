@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "loa",
 
 	// 个人签名
-	bio: "欢迎来到本站，若有问题可通过以下链接联系我。",
+	bio: "免费Galgame资源站，若有问题可通过以下链接联系我。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
