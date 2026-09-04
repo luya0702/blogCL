@@ -37,7 +37,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 	// showOnPostPage 是否在文章详情页显示该组件
 	// hideOnNonPostPage 是否在非文章详情页隐藏该组件（true=仅文章详情页显示）
 	// specificConfig 组件专属配置
-	leftComponents: [
+	rightComponents: [
 		{
 			// 组件类型：用户资料组件
 			type: "profile",
@@ -97,11 +97,21 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 				// 折叠阈值：当标签数量超过>10个时自动折叠
 				collapseThreshold: 10,
 			},
+			{
+			// 组件类型：站点统计组件
+			type: "stats",
+			// 是否启用该组件
+			enable: true,
+			// 组件位置
+			position: "top",
+			// 是否在文章详情页显示
+			showOnPostPage: false,
+		},
 		},
 	],
 
 	// 右侧边栏组件配置列表
-	rightComponents: [
+	leftComponents: [
 		{
 			// 组件类型：最新动态组件
 			type: "dynamic",
@@ -123,7 +133,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：站点统计组件
 			type: "stats",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
 			position: "top",
 			// 是否在文章详情页显示
