@@ -2,7 +2,7 @@
 
 title: わんこの嫁入り 新たな二本のしっぽ
 published: 2026-09-04
-description: 汪酱出嫁～新二尾嫁到～/汪酱出嫁2  
+description: 酱出嫁～新二尾嫁到～/汪酱出嫁2  
 tags: [兽耳娘, 姐妹, 恋爱喜剧, 汉化, PC]
 category: Galgame
 series: "Alumi Soft"
@@ -50,7 +50,7 @@ draft: false
 
 わんこの嫁入り 新たな二本のしっぽ/汪酱出嫁～新二尾嫁到～/汪酱出嫁2\[windows]\[汉化]\[虚空叛逆帝龙]\[CHS]
 
-**下载地址：** [文件频道](https://t.me/sharega_down/48) | [百度网盘](https://pan.baidu.com/s/1Q4KLxafb8ZNvwo0_fQsi0g?pwd=8439) | [夸克网盘](https://pan.xunlei.com/s/VOqQm_Wrueqd5OjwRucsprxLA1?pwd=kaqf#)
+**下载地址：** [文件频道](https://t.me/sharega_down/48) | [百度网盘](https://pan.baidu.com/s/1Q4KLxafb8ZNvwo0_fQsi0g?pwd=8439) | [迅雷网盘](https://pan.xunlei.com/s/VOqQm_Wrueqd5OjwRucsprxLA1?pwd=kaqf#)
 
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/dmmgames_0098/)
 
@@ -60,7 +60,7 @@ draft: false
 ---
 
 ### 注意：  
--故事简介为Ai翻译，可能与你游玩的版本有些许不同。  
--注意事项中的内容仅供参考，不能保证您的电脑是否通用。  
--若您的电脑无法运行，请看以下网站[新人必读](https://loagal.top/posts/jc/jcz/)   
--有能力请支持正版！
+- 故事简介为Ai翻译，可能与你游玩的版本有些许不同。  
+- 注意事项中的内容仅供参考，不能保证您的电脑是否通用。  
+- 若您的电脑无法运行，请看以下网站[新人必读](https://loagal.top/posts/jc/jcz/)   
+- 有能力请支持正版！

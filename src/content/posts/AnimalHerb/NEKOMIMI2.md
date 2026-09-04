@@ -42,7 +42,7 @@ draft: false
 
 ウチのペット事情 Vol.2 / 家喵二三事 Vol. 2\[windows]\[官方中文]\[CHS]
 
-**下载地址：** [文件频道](https://t.me/sharegal/470) | [百度网盘](https://pan.baidu.com/s/1fRStXYkublnILLF3YjP2ag?pwd=drfj) | [夸克网盘](https://pan.xunlei.com/s/VOvzfCsGUH2IuJM9aFQXFRT8A1?pwd=cjd9#)
+**下载地址：** [文件频道](https://t.me/sharegal/470) | [百度网盘](https://pan.baidu.com/s/1fRStXYkublnILLF3YjP2ag?pwd=drfj) | [迅雷网盘](https://pan.xunlei.com/s/VOvzfCsGUH2IuJM9aFQXFRT8A1?pwd=cjd9#)
 
 **入正地址：**   [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ01603206.html) |  [Steam](https://store.steampowered.com/app/4598080/_Vol_2/)
 
