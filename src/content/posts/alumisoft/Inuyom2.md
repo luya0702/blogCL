@@ -2,7 +2,7 @@
 
 title: わんこの嫁入り ～ようこそ！いぬのしっぽへ～
 published: 2026-09-04
-description: 汪酱出嫁～欢迎光临!狗尾巴～/小狗新娘～欢迎光临尾巴摇摇～  
+description: 酱出嫁～新二尾嫁到～/汪酱出嫁2  
 tags: [兽耳娘, 姐妹, 恋爱喜剧, 汉化, PC]
 category: Galgame
 series: "Alumi Soft"
