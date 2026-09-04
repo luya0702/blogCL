@@ -11,8 +11,6 @@ draft: false
 
 ---
 
-![alumisoft](./images/Inuyome2.avif)
-
 ### 基本信息
 
 **游戏名称：** わんこの嫁入り 新たな二本のしっぽ

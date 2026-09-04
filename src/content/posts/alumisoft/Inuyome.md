@@ -11,8 +11,6 @@ draft: false
 
 ---
 
-![alumisoft](./images/Inuyome.avif)
-
 ### 基本信息
 
 **游戏名称：** わんこの嫁入り ～ようこそ！いぬのしっぽへ～
