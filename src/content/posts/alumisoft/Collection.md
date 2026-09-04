@@ -3,7 +3,7 @@
 title: あるみそふと
 published: 2026-09-04
 description: あるみそふと / Alumi Soft  
-tags: [合集, Alumi Soft]
+tags: [会社合集]
 category: 会社合集
 series: "Alumi Soft"
 draft: false
